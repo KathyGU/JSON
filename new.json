@@ -1,11 +1,11 @@
 {
-    "Personal data": {
-	"First Name": "Kathy",
-        "Last Name": "GU",
-        "Age": 39
+    "Personal_data": {
+	"first_name": "Kathy",
+        "last_name": "GU",
+        "age": 39
 	}, 
     "Pets": 2,
-    "Preferable salary": "a shitload of cash"
+    "Preferable_salary": "a shitload of cash"
     
 }
 
